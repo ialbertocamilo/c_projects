@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="InjectorC" targetName="InjectorC" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e8d8661-6fd5-49e9-86f4-bcbfb91ee6c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1bFPid1Z9sci5yPAmNLJjE8jCoa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="InjectorC" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="C:\Users\AlbertoCamilo\Desktop\svgTestDLL.dll" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="InjectorC" TARGET_NAME="InjectorC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="InjectorC" RUN_TARGET_NAME="InjectorC">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e8d8661-6fd5-49e9-86f4-bcbfb91ee6c1" name="Default Changelist" comment="" />
+      <created>1588224996842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588224996842</updated>
+      <workItem from="1588225000373" duration="1388000" />
+      <workItem from="1588226690135" duration="8247000" />
+      <workItem from="1588235102167" duration="3467000" />
+      <workItem from="1588245834112" duration="614000" />
+      <workItem from="1588985859821" duration="321000" />
+      <workItem from="1588996702202" duration="64000" />
+      <workItem from="1588996779909" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="945" y="387" key="#Notifications" timestamp="1588226694654">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="945" y="387" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1588226694654" />
+    <state x="517" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588236029548">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="517" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588236029548" />
+    <state x="739" y="279" key="FileChooserDialogImpl" timestamp="1588244850785">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1588244850785" />
+    <state width="1875" height="245" key="GridCell.Tab.0.bottom" timestamp="1588244854686">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1875" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1588244854685" />
+    <state width="1875" height="245" key="GridCell.Tab.0.center" timestamp="1588244854685">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1875" height="245" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1588244854685" />
+    <state width="1875" height="245" key="GridCell.Tab.0.left" timestamp="1588244854685">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1875" height="245" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1588244854685" />
+    <state width="1875" height="245" key="GridCell.Tab.0.right" timestamp="1588244854685">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1875" height="245" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1588244854685" />
+    <state x="306" y="252" key="SettingsEditor" timestamp="1588985907659">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="306" y="252" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1588985907659" />
+  </component>
+</project>

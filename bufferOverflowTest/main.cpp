@@ -1,0 +1,44 @@
+
+#include <windows.h>
+#include <stdio.h>
+#include <windows.h>
+#include <iostream>
+using namespace std;
+void func() {
+    MessageBoxA(nullptr,"Hola mundo","dw",MB_OK);
+}
+
+//char code[] = "\x31\xc0\x31\xdb\x31\xc9\x31\xd2\xeb\x2a\x59\xbb\x77\x1d\x80\x7c\x51\xff\xd3\xeb\x2f\x59\x51\x50\xbb\xc0\xad\x80\x7c\xff\xd3\xeb\x34\x59\x31\xd2\x52\x51\x51\x52\xff\xd0\x31\xd2\x50\xb8\x82\xca\x81\x7c\xff\xd0\xe8\xd1\xff\xff\xff\x75\x73\x65\x72\x33\x32\x2e\x64\x6c\x6c\x00\xe8\xcc\xff\xff\xff\x4d\x65\x73\x73\x61\x67\x65\x42\x6f\x78\x41\x00\xe8\xc7\xff\xff\xff\x48\x65\x79\x00";
+
+void myfun(){
+
+    cout<<"HACKED!!";
+    cout<<"HACKED!!";
+    cout<<"HACKED!!";
+    cout<<"HACKED!!";
+    cout<<"HACKED!!";
+    cout<<"HACKED!!";
+
+}
+
+//void imain(){
+//    printf("holaaa");
+//    int (*func)();
+//    func = (int (*)()) code;
+//    (int)(*func)();
+//}
+using namespace std;
+void myfunc(){
+
+//    char shellcode[]= "\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x41\x42\x42\x42\x42\x42\x43\x43";
+
+    char myaddress[]="\x60\x15\x40\x00"; // "\x00\x40\x15\x60"
+    char buff[15];
+    char mybuff[]="AAAAAAAAAAAAAAAABBBBBBBBBBBB";
+    strcat(mybuff,myaddress);
+    strcat(buff,mybuff);
+}
+int main()
+{
+myfunc();
+}

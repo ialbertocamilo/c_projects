@@ -1,0 +1,12 @@
+{
+    mtimes = {
+        ["xmake.lua"] = 1588062206
+    },
+    options_all = {
+        plat = "windows",
+        arch = "x86",
+        mode = "release"
+    },
+    __version = "2.3.3",
+    options_library = ref("options_all")
+}

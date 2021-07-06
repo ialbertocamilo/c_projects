@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Driver" targetName="Driver" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5107963b-28e5-440b-87e7-f71061a91712" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="Proyectos importantes">
+      <favorite_root url="file://$PROJECT_DIR$" module="Driver" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/.idea" module="Driver" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/codeStyles" module="Driver" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/.idea/Driver.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/dictionaries" module="Driver" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/.idea/dictionaries/lobo_.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/inspectionProfiles" module="Driver" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/main.c" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/driver.h" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/CMakeLists.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.c" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1a0udyJR7Tg1pXi7ar6rYOfH2Xn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AutoStage" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Driver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Driver" TARGET_NAME="Driver" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Driver" RUN_TARGET_NAME="Driver">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5107963b-28e5-440b-87e7-f71061a91712" name="Default Changelist" comment="" />
+      <created>1585884923317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585884923317</updated>
+      <workItem from="1585884927031" duration="25570000" />
+      <workItem from="1586064172547" duration="903000" />
+      <workItem from="1586065438348" duration="336000" />
+      <workItem from="1586065972765" duration="608000" />
+      <workItem from="1586067396409" duration="18000" />
+      <workItem from="1586067439411" duration="109000" />
+      <workItem from="1586067770668" duration="258000" />
+      <workItem from="1586068213076" duration="180000" />
+      <workItem from="1586068471871" duration="859000" />
+      <workItem from="1586069349496" duration="806000" />
+      <workItem from="1586070172734" duration="538000" />
+      <workItem from="1586070728584" duration="61000" />
+      <workItem from="1586070803224" duration="63000" />
+      <workItem from="1586070886712" duration="228000" />
+      <workItem from="1586071137852" duration="87000" />
+      <workItem from="1586071239443" duration="187000" />
+      <workItem from="1586071441749" duration="266000" />
+      <workItem from="1586071725557" duration="124000" />
+      <workItem from="1586071869388" duration="362000" />
+      <workItem from="1586072249487" duration="387000" />
+      <workItem from="1586072651051" duration="259000" />
+      <workItem from="1586072924814" duration="140000" />
+      <workItem from="1586073079874" duration="191000" />
+      <workItem from="1586073295732" duration="321000" />
+      <workItem from="1586073638206" duration="931000" />
+      <workItem from="1586074782208" duration="192000" />
+      <workItem from="1586075012670" duration="1687000" />
+      <workItem from="1586076782324" duration="83000" />
+      <workItem from="1586076883209" duration="333000" />
+      <workItem from="1586077236948" duration="108000" />
+      <workItem from="1586078259817" duration="16973000" />
+      <workItem from="1586143610910" duration="735000" />
+      <workItem from="1586157432212" duration="36000" />
+      <workItem from="1586223206147" duration="2712000" />
+      <workItem from="1586322001086" duration="626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="129" key="#C/C++" timestamp="1586076670233">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="462" y="129" key="#C/C++/0.0.1739.939@0.0.1739.939" timestamp="1586076670233" />
+    <state x="462" y="129" key="#Inspections" timestamp="1586076832250">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="462" y="129" key="#Inspections/0.0.1739.939@0.0.1739.939" timestamp="1586076832250" />
+    <state x="462" y="129" key="#Notifications" timestamp="1586135003967">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="462" y="129" key="#Notifications/0.0.1739.939@0.0.1739.939" timestamp="1586135003967" />
+    <state x="996" y="196" key="#com.intellij.tools.ToolEditorDialog" timestamp="1586122025306">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="996" y="196" key="#com.intellij.tools.ToolEditorDialog/0.0.1739.939@0.0.1739.939" timestamp="1586122025306" />
+    <state x="562" y="171" key="FileChooserDialogImpl" timestamp="1586331760266">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="562" y="171" key="FileChooserDialogImpl/0.0.1739.939@0.0.1739.939" timestamp="1586331760266" />
+    <state x="686" y="385" key="Github.CreateGistDialog" timestamp="1586135048314">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="686" y="385" key="Github.CreateGistDialog/0.0.1739.939@0.0.1739.939" timestamp="1586135048314" />
+    <state x="347" y="142" width="981" height="734" key="SettingsEditor" timestamp="1586122570479">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="347" y="142" width="981" height="734" key="SettingsEditor/0.0.1739.939@0.0.1739.939" timestamp="1586122570479" />
+    <state x="578" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1586067404442">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="578" y="298" key="com.intellij.ide.util.TipDialog/0.0.1739.939@0.0.1739.939" timestamp="1586067404442" />
+    <state x="102" y="424" width="709" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586076157322">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="102" y="424" width="709" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1739.939@0.0.1739.939" timestamp="1586076157322" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lobo_/CLionProjects/bufferOverflowTest/main.cpp
+windows.h
+-
+stdio.h
+-
+windows.h
+-
+iostream
+-
+

@@ -1,0 +1,6 @@
+#ifndef SVGTESTDLL_LIBRARY_H
+#define SVGTESTDLL_LIBRARY_H
+
+void hello();
+
+#endif //SVGTESTDLL_LIBRARY_H

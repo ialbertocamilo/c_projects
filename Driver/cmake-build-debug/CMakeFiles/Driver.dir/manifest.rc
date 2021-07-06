@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/lobo_/CLionProjects/Driver/cmake-build-debug/CMakeFiles/Driver.dir/embed.manifest"

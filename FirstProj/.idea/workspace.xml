@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="FirstProj" targetName="FirstProj" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d13963ca-f938-4cba-9845-a8c8a8d0b50e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1aPz5ACEHB12YPkKyGnzmZFwFqk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Proyectos/Haxe/haxetest" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="haxe.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AlbertoCamilo\CLionProjects\FirstProj\cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="python" />
+      <command value="?" />
+      <command value="calc" />
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.FirstProj">
+    <configuration name="FirstProj" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FirstProj" TARGET_NAME="FirstProj" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FirstProj" RUN_TARGET_NAME="FirstProj">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="imageDetect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imageDetect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.FirstProj" />
+      <item itemvalue="Python.imageDetect" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.imageDetect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d13963ca-f938-4cba-9845-a8c8a8d0b50e" name="Default Changelist" comment="" />
+      <created>1586651831352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586651831352</updated>
+      <workItem from="1586651838623" duration="269000" />
+      <workItem from="1586652154262" duration="464000" />
+      <workItem from="1586652791854" duration="361000" />
+      <workItem from="1586653163234" duration="305000" />
+      <workItem from="1586653478450" duration="344000" />
+      <workItem from="1586653833888" duration="289000" />
+      <workItem from="1586654152110" duration="854000" />
+      <workItem from="1586655896278" duration="881000" />
+      <workItem from="1586656789523" duration="3832000" />
+      <workItem from="1586662688157" duration="122000" />
+      <workItem from="1586678774878" duration="2050000" />
+      <workItem from="1586682768240" duration="81000" />
+      <workItem from="1586828551247" duration="19095000" />
+      <workItem from="1586856856389" duration="3957000" />
+      <workItem from="1587006444430" duration="724000" />
+      <workItem from="1587457319208" duration="792000" />
+      <workItem from="1587531639530" duration="152000" />
+      <workItem from="1587531803697" duration="1958000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586859194468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="687" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586859194468" />
+    <state x="795" y="328" key="#com.intellij.tools.ToolEditorDialog" timestamp="1586837072846">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="795" y="328" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586837072846" />
+    <state x="1193" y="211" key="ExperimentsDialog" timestamp="1586658225536">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1193" y="211" key="ExperimentsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586658225536" />
+    <state x="604" y="252" key="FileChooserDialogImpl" timestamp="1587537432431">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="604" y="252" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1587537432431" />
+    <state width="1875" height="281" key="GridCell.Tab.0.bottom" timestamp="1586860149803">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1875" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586860149803" />
+    <state width="1875" height="281" key="GridCell.Tab.0.center" timestamp="1586860149803">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1875" height="281" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586860149803" />
+    <state width="1875" height="281" key="GridCell.Tab.0.left" timestamp="1586860149803">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1875" height="281" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586860149803" />
+    <state width="1875" height="281" key="GridCell.Tab.0.right" timestamp="1586860149803">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1875" height="281" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586860149803" />
+    <state width="1875" height="350" key="GridCell.Tab.1.bottom" timestamp="1586852059524">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1875" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586852059524" />
+    <state width="1875" height="350" key="GridCell.Tab.1.center" timestamp="1586852059523">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1875" height="350" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586852059523" />
+    <state width="1875" height="350" key="GridCell.Tab.1.left" timestamp="1586852059523">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1875" height="350" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586852059523" />
+    <state width="1875" height="350" key="GridCell.Tab.1.right" timestamp="1586852059524">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1875" height="350" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586852059524" />
+    <state x="537" y="150" width="998" height="708" key="SettingsEditor" timestamp="1587532507660">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="537" y="150" width="998" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587532507660" />
+    <state x="1280" y="430" key="UiDebugger" timestamp="1586658236986">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1280" y="430" key="UiDebugger/0.0.1920.1050@0.0.1920.1050" timestamp="1586658236986" />
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1586651843820">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586651843820" />
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup" timestamp="1586855019291">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586855019291" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1586857453379">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586857453379" />
+  </component>
+</project>

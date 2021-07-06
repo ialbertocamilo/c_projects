@@ -1,0 +1,3 @@
+C:/Users/AlbertoCamilo/CLionProjects/svgTestDLL/cmake-build-debug/CMakeFiles/svgTestDLL.dir
+C:/Users/AlbertoCamilo/CLionProjects/svgTestDLL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AlbertoCamilo/CLionProjects/svgTestDLL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

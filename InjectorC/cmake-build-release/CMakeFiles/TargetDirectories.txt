@@ -1,0 +1,3 @@
+C:/Users/AlbertoCamilo/CLionProjects/InjectorC/cmake-build-release/CMakeFiles/InjectorC.dir
+C:/Users/AlbertoCamilo/CLionProjects/InjectorC/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/AlbertoCamilo/CLionProjects/InjectorC/cmake-build-release/CMakeFiles/rebuild_cache.dir

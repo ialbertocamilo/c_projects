@@ -1,0 +1,6 @@
+C:/Users/AlbertoCamilo/CLionProjects/Scannibal/cmake-build-release/CMakeFiles/Scannibal.dir
+C:/Users/AlbertoCamilo/CLionProjects/Scannibal/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/AlbertoCamilo/CLionProjects/Scannibal/cmake-build-release/CMakeFiles/rebuild_cache.dir
+C:/Users/AlbertoCamilo/CLionProjects/Scannibal/cmake-build-release/MemoryJumper/CMakeFiles/MemoryJumper.dir
+C:/Users/AlbertoCamilo/CLionProjects/Scannibal/cmake-build-release/MemoryJumper/CMakeFiles/edit_cache.dir
+C:/Users/AlbertoCamilo/CLionProjects/Scannibal/cmake-build-release/MemoryJumper/CMakeFiles/rebuild_cache.dir

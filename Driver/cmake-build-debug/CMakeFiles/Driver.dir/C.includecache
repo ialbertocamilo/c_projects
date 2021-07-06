@@ -1,0 +1,248 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/km/mce.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/km/ntddk.h
+wdm.h
+-
+excpt.h
+-
+ntdef.h
+-
+ntstatus.h
+-
+bugcodes.h
+-
+ntiologc.h
+-
+mce.h
+-
+pshpack4.h
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/km/pshpack4.h
+poppack.h
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/km/poppack.h
+guiddef.h
+-
+pshpack1.h
+-
+poppack.h
+-
+pshpack1.h
+-
+poppack.h
+-
+pshpack1.h
+-
+poppack.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/km/ntstrsafe.h
+stdio.h
+-
+string.h
+-
+stdarg.h
+-
+specstrings.h
+-
+winapifamily.h
+-
+ntdef.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/km/wdm.h
+excpt.h
+-
+ntdef.h
+-
+ntstatus.h
+-
+bugcodes.h
+-
+ntiologc.h
+-
+winapifamily.h
+-
+mce.h
+-
+intrin.h
+-
+intrin.h
+-
+intrin.h
+-
+pshpack4.h
+-
+poppack.h
+-
+guiddef.h
+-
+pshpack4.h
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/km/pshpack4.h
+poppack.h
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/km/poppack.h
+pshpack1.h
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/km/pshpack1.h
+poppack.h
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/km/poppack.h
+string.h
+-
+string.h
+-
+specstrings.h
+-
+guiddef.h
+-
+dpfilter.h
+-
+apiset.h
+-
+ktmtypes.h
+-
+pshpack4.h
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/km/pshpack4.h
+poppack.h
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/km/poppack.h
+evntrace.h
+-
+stdarg.h
+-
+evntprov.h
+-
+devpropdef.h
+-
+clfslsn.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/DriverSpecs.h
+specstrings.h
+-
+sdv_driverspecs.h
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/sdv_driverspecs.h
+concurrencysal.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/apiset.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/basetsd.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/bugcodes.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/clfslsn.h
+winapifamily.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/concurrencysal.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/devpropdef.h
+winapifamily.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/dpfilter.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/driverspecs.h
+specstrings.h
+-
+sdv_driverspecs.h
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/sdv_driverspecs.h
+concurrencysal.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/evntprov.h
+winapifamily.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/evntrace.h
+winapifamily.h
+-
+guiddef.h
+-
+wmistr.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/guiddef.h
+string.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/kernelspecs.h
+DriverSpecs.h
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/DriverSpecs.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/ktmtypes.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/no_sal2.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/ntdef.h
+ctype.h
+-
+winapifamily.h
+-
+specstrings.h
+-
+kernelspecs.h
+-
+basetsd.h
+-
+guiddef.h
+-
+excpt.h
+-
+sdkddkver.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/ntiologc.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/ntstatus.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/poppack.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/pshpack1.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/pshpack4.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/sal.h
+CodeAnalysis/sourceannotations.h
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/CodeAnalysis/sourceannotations.h
+concurrencysal.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/sdkddkver.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/sdv_driverspecs.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/specstrings.h
+sal.h
+-
+specstrings_strict.h
+-
+driverspecs.h
+-
+no_sal2.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/specstrings_strict.h
+specstrings_undef.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/specstrings_undef.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/winapifamily.h
+winpackagefamily.h
+-
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/winpackagefamily.h
+
+C:/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared/wmistr.h
+
+C:/Users/lobo_/CLionProjects/Driver/main.c
+ntddk.h
+-
+ntstrsafe.h
+-
+

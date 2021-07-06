@@ -1,0 +1,21 @@
+{
+    __version = "2.3.3",
+    cmdlines = {
+        "xmake ",
+        [[xmake lua C:\Users\AlbertoCamilo\xmake\actions\build\statistics.lua]],
+        [[xmake lua C:\Users\AlbertoCamilo\xmake\actions\build\cleaner.lua]],
+        "xmake ",
+        "xmake run",
+        "xmake ",
+        "xmake ",
+        "xmake ",
+        "xmake ",
+        "xmake f -y",
+        "xmake f -p windows -a x86 -m release",
+        "xmake -w",
+        "xmake -w",
+        "xmake -w",
+        "xmake -w",
+        "xmake -w"
+    }
+}
